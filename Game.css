@@ -129,7 +129,8 @@
     margin: 0 auto;
     padding: 20px;
     align-items: center;
-    /* Убрано flex-direction: column - теперь блоки будут в ряд */
+    
+
 }
 
 /* Добавляем стили для блоков игрока и компьютера */
